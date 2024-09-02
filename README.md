@@ -7,8 +7,8 @@ I'm a **Website Designer** and **Full Stack Developer** passionate about creatin
 - 🔭 I’m currently working on: Full stack web projects using modern frameworks like Next.js and Spring Boot
 - 🌱 I’m learning: Advanced UI/UX principles and integrating Figma into complex projects
 - 💬 Ask me about: Designing and developing user-centered products
-- ⚡ Fun fact: I specialize in **Design Thinking**—verify my certification [here](https://coursera.org/verify/specialization/AMUWPNBRLJGL)
-
+- ⚡ Fun fact: I specialize in **Design Thinking**—verify my certification [Desing Thinking](https://coursera.org/verify/specialization/AMUWPNBRLJGL)
+  
 ## 💼 Skills & Tools
 
 ### **Languages & Frameworks** 
