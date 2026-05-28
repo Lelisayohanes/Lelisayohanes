@@ -1,90 +1,253 @@
-<h1 align="center">👋 Hi, I'm Lelisa Yohanes</h1>
-<p align="center">
-  🚀 Full Stack Developer • 🎨 UX-Focused Designer • 🤖 Emerging AI Engineer
-</p>
-<p align="center">
-  <em>Building smart, user-friendly, and beautifully designed digital experiences.</em>
-</p>
+````md
+<!-- ===================================================== -->
+<!--                ENTERPRISE PROFILE SYSTEM               -->
+<!-- ===================================================== -->
 
----
+<div align="center">
 
-## 🔍 What I’m Working On
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Lelisa%20Yohanes&fontAlign=50&fontAlignY=40&color=0:0f172a,50:111827,100:1e293b&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20UX%20Engineer%20•%20AI%20Builder&descAlignY=65&descSize=18" width="100%" />
 
-🌟 **AI-powered Web Apps**  
-💻 Full-stack platforms using:
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/shadcn/ui-111827?style=for-the-badge&logo=shadcn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Designing+intelligent+digital+experiences;Building+scalable+AI-powered+systems;Engineering+products+with+human-centered+thinking;Full+Stack+Developer+%7C+Product+Designer+%7C+AI+Engineer" />
 
----
-
-## 🧠 Tech Toolbox
-
-### 🧩 Frontend
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/shadcn/ui-111827?style=for-the-badge&logo=shadcn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
-
-### 🔧 Backend & Databases
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
----
-
-## ⚙️ DevOps Stack
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-</p>
-
----
-
-## 📚 Certifications
-
-- 📜 [Design Thinking – Coursera & UVA](https://www.coursera.org/account/accomplishments/specialization/AMUWPNBRLJGL)  
-- 🧰 [IBM DevOps and Software Engineering – Coursera & IBM](https://www.coursera.org/account/accomplishments/professional-cert/0IU5TH0XKOCG)
-
----
-
-## 🎯 Fun Fact
-
-✨ I love blending **tech with creativity**, using **design thinking**, **code**, and **AI** to build products that feel truly human.
-
----
-
-## 📬 Let’s Connect!
+<br/><br/>
 
 <p align="center">
   <a href="mailto:lelisayohanes1991@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/lelisa-yohanes-23a929277/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-PROFESSIONAL_NETWORK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/lelisa-yohanes">
+    <img src="https://img.shields.io/badge/GITHUB-OPEN_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.credly.com/users/lelisa-yohanes/badges#credly">
+    <img src="https://img.shields.io/badge/CREDLY-VERIFIED_CERTIFICATIONS-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-  <strong>Let’s build something useful, beautiful, and powered by intelligent design. 🚀</strong>
+</div>
+
+---
+
+# SYSTEM OVERVIEW
+
+```yaml
+name: Lelisa Yohanes
+role: Full Stack Developer / UX Engineer / AI Builder
+focus:
+  - AI-Powered Applications
+  - Scalable SaaS Platforms
+  - Cloud-Native Architecture
+  - UX-Centered Product Engineering
+  - Intelligent Automation Systems
+
+philosophy:
+  "Build technology that feels human, performs at scale,
+   and creates meaningful real-world impact."
+````
+
+---
+
+# ABOUT ME
+
+I am a multidisciplinary software engineer focused on building modern, scalable, and intelligent digital products.
+
+My work combines:
+
+* Software Engineering
+* Product Design
+* Design Thinking
+* Artificial Intelligence
+* Cloud Infrastructure
+* Human-Centered UX
+
+I specialize in transforming ideas into production-grade systems that are technically robust, visually refined, and optimized for real users.
+
+---
+
+# CURRENT FOCUS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ENGINEERING
+
+* Architecting AI-powered web platforms
+* Building scalable multi-tenant SaaS systems
+* Designing distributed backend infrastructures
+* Creating high-performance frontend experiences
+* Optimizing DevOps and CI/CD workflows
+
+</td>
+
+<td width="50%" valign="top">
+
+### INNOVATION
+
+* Intelligent workflow automation
+* AI-enhanced product experiences
+* Human-centered design systems
+* Cloud-native infrastructure patterns
+* Scalable software architecture
+
+</td>
+</tr>
+</table>
+
+---
+
+# TECH ECOSYSTEM
+
+## FRONTEND ENGINEERING
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,js,figma" />
 </p>
+
+## BACKEND & APIs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,go,fastapi,spring,django" />
+</p>
+
+## DATABASE SYSTEMS
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+</p>
+
+## DEVOPS & CLOUD
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,nginx,jenkins,githubactions,linux" />
+</p>
+
+---
+
+# ENGINEERING METRICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lelisa-yohanes&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=lelisa-yohanes&theme=tokyonight&hide_border=true&border_radius=12" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lelisa-yohanes&theme=tokyo-night&hide_border=true&area=true&custom_title=Engineering%20Contribution%20Graph" />
+
+</div>
+
+---
+
+# DESIGN PHILOSOPHY
+
+> Great software is not only engineered for performance — it is designed for people.
+
+I believe exceptional products emerge at the intersection of:
+
+* Engineering Precision
+* Human Psychology
+* Design Thinking
+* Scalable Architecture
+* Intelligent Automation
+
+My workflow integrates product thinking directly into the engineering lifecycle to ensure systems remain intuitive, scalable, and impactful.
+
+---
+
+# CERTIFICATIONS & LEARNING
+
+<table>
+<tr>
+<td valign="top">
+
+### VERIFIED CERTIFICATIONS
+
+* IBM DevOps and Software Engineering Professional Certificate
+* Design Thinking — University of Virginia
+* Continuous AI & Cloud Architecture Learning
+* System Design & Product Engineering
+
+</td>
+
+<td valign="top">
+
+<p align="center">
+
+<a href="https://www.credly.com/users/lelisa-yohanes/badges#credly">
+  <img src="https://img.shields.io/badge/VIEW-VERIFIED_BADGES-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+# ARCHITECTURAL VISION
+
+My mission is to engineer technology ecosystems that combine creativity, intelligence, and scalable infrastructure to solve meaningful problems.
+
+I aim to contribute to the future of software engineering by building systems that are:
+
+* Intelligent
+* Human-Centered
+* High Performance
+* Scalable
+* Sustainable
+
+---
+
+# CONNECTION ENDPOINTS
+
+<div align="center">
+
+<a href="mailto:lelisayohanes1991@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/lelisa-yohanes-23a929277/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/lelisa-yohanes">
+  <img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.credly.com/users/lelisa-yohanes/badges#credly">
+  <img src="https://img.shields.io/badge/CREDLY-CERTIFICATIONS-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=lelisa-yohanes&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
+---
+
+<div align="center">
+
+```txt
+SYSTEM STATUS  :: ONLINE
+ARCHITECTURE   :: SCALABLE
+WORKFLOW       :: AI-ENHANCED
+FOCUS          :: BUILDING THE FUTURE
+```
+
+</div>
+```
