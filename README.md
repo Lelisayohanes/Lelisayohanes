@@ -235,16 +235,10 @@ I aim to contribute to the future of software engineering by building systems th
 
 </div>
 
----
-
 <div align="center">
 
-```txt
 SYSTEM STATUS  :: ONLINE
 ARCHITECTURE   :: SCALABLE
 WORKFLOW       :: AI-ENHANCED
 FOCUS          :: BUILDING THE FUTURE
-```
-
 </div>
-```
