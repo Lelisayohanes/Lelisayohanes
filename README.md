@@ -54,8 +54,6 @@
 <div style="max-width:600px;margin:20px auto;background:#0d1117;border:1px solid #30363d;border-radius:12px;padding:24px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;color:#c9d1d9;">
 
 <pre style="background:#161b22;border-radius:8px;padding:16px;margin:0;white-space:pre-wrap;word-wrap:break-word;color:#c9d1d9;font-size:0.95rem;">
-<span style="color:#79c0ff;">name:</span> Lelisa Yohanes
-<span style="color:#79c0ff;">role:</span> Full Stack Developer / UX Engineer / AI Builder
 <span style="color:#79c0ff;">focus:</span>
   - AI-Powered Applications
   - Scalable SaaS Platforms
