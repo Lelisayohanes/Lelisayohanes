@@ -132,9 +132,9 @@ I specialize in transforming ideas into production-grade systems that are techni
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lelisa-yohanes&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lelisayohanes&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=lelisa-yohanes&theme=tokyonight&hide_border=true&border_radius=12" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lelisayohanes&theme=tokyonight&hide_border=true&border_radius=12" />
 
 </div>
 
@@ -142,7 +142,7 @@ I specialize in transforming ideas into production-grade systems that are techni
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lelisa-yohanes&theme=tokyo-night&hide_border=true&area=true&custom_title=Engineering%20Contribution%20Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lelisayohanes&theme=tokyo-night&hide_border=true&area=true&custom_title=Engineering%20Contribution%20Graph" />
 
 </div>
 
