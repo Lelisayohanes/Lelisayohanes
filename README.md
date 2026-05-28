@@ -50,9 +50,8 @@
 
 # SYSTEM OVERVIEW
 
-<div style="max-width:600px;margin:20px auto;background:#0d1117;border:1px solid #30363d;border-radius:12px;padding:24px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;color:#c9d1d9;">
 
-<h2 style="margin:0 0 16px;font-size:1.5rem;color:#58a6ff;border-bottom:1px solid #21262d;padding-bottom:8px;">System Overview</h2>
+<div style="max-width:600px;margin:20px auto;background:#0d1117;border:1px solid #30363d;border-radius:12px;padding:24px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;color:#c9d1d9;">
 
 <pre style="background:#161b22;border-radius:8px;padding:16px;margin:0;white-space:pre-wrap;word-wrap:break-word;color:#c9d1d9;font-size:0.95rem;">
 <span style="color:#79c0ff;">name:</span> Lelisa Yohanes
