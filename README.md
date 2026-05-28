@@ -50,7 +50,6 @@
 
 # SYSTEM OVERVIEW
 
-```yaml
 name: Lelisa Yohanes
 role: Full Stack Developer / UX Engineer / AI Builder
 focus:
@@ -63,7 +62,8 @@ focus:
 philosophy:
   "Build technology that feels human, performs at scale,
    and creates meaningful real-world impact."
-ABOUT ME
+   
+# ABOUT ME
 I am a multidisciplinary software engineer focused on building modern, scalable, and intelligent digital products.
 
 My work combines:
